@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \'Forge-remarks\' and the current modded situation.
+title: Forge-remarks and the current modded situation.
 ---
 
 *Note: Do NOT go and send hate to anyone mentioned here (or myself for that matter :P), this is just a recap of what happened and my personal opinion. Don't be an idiot.* <br> <br>
